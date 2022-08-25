@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dmanias
+- 👋 Hi, I’m @dmanias (Dimosthenis Manias)
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Rust, Go, Blockchain
 - 📫 How to reach me: dimosthenis.manias@gmail.com, https://www.linkedin.com/in/dimosthenis-manias-8a63984/
